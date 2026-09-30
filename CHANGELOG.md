@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/a2aproject/a2a-python/compare/v1.2.1...v1.2.2) (2026-09-30)
+
+
+### Bug Fixes
+
+* **compat:** keep timestamp and three other fields in v0.3 gRPC conversion ([#1277](https://github.com/a2aproject/a2a-python/issues/1277)) ([fad0482](https://github.com/a2aproject/a2a-python/commit/fad04821ca9ca70f5378305c2f3ce9225d323e72)), closes [#1276](https://github.com/a2aproject/a2a-python/issues/1276)
+
 ## [1.2.1](https://github.com/a2aproject/a2a-python/compare/v1.2.0...v1.2.1) (2026-09-30)
 
 
